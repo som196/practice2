@@ -1,0 +1,14 @@
+/* Write your CSS here */
+.mainContainer {
+  background-image: linear-gradient(#2b2c49, #b5b9ff);
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 50%;
+  height: 50vh;
+  margin: auto;
+  margin-top: 20px;
+  border-radius: 20px;
+}
